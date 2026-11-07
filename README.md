@@ -1,24 +1,21 @@
-# Hi, I'm Yang Luo 👋
+# Hi, I'm Yang Luo
 
-Software engineer building mobile and web products — from native iOS to full-stack SaaS.
+Software engineer and Computer Science student at Western University, seeking 2027 new-grad software engineering opportunities.
 
-🌐 [pov-hiring-yang.vercel.app](https://pov-hiring-yang.vercel.app)
+I build mobile and web products across nutrition, personal finance, and workflow tools.
 
-## What I'm building
+[Explore my interactive portfolio](https://povhiringyang.vercel.app/)
 
-| Project | What it is | Stack |
-|---|---|---|
-| **Provision** | Native iOS app — in active development (private) | Swift, SwiftUI |
-| **[RevLeak](https://github.com/yanglluo/RevLeak)** · [live](https://revleak.vercel.app) | Revenue-leak detection for SaaS: watches Stripe for failed payments, past-due subscriptions, expiring cards and disputes, and surfaces prioritized recovery actions | Next.js, TypeScript, Stripe, Supabase |
-| **[Mend](https://github.com/yanglluo/MendFinanceApp)** | Mobile app that helps students build mindful money habits, with budget tracking, insights and a mascot coach | React Native, Expo, TypeScript |
+## Selected work
 
-## Tech I work with
+| Project | What it does | Technology |
+| --- | --- | --- |
+| **Provision** | Nutrition app for meal logging and nutrition insights. In active development; source is private. | Swift, SwiftUI |
+| **[RevLeak](https://github.com/yanglluo/RevLeak)** | SaaS revenue-risk project that detects failed payments, overdue subscriptions, and expiring cards from Stripe data. | Next.js, TypeScript, Stripe, Supabase |
+| **[Mend](https://github.com/yanglluo/MendFinanceApp)** | Student budgeting app with local expense tracking, rules-based spending insights, and adjustable feedback styles. | React Native, Expo, TypeScript, SQLite |
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+## Tools I work with
+
+Swift · SwiftUI · TypeScript · React · React Native · Next.js · Node.js · SQL
+
+See my [portfolio](https://povhiringyang.vercel.app/) for project context, experience, and résumé.
