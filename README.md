@@ -10,7 +10,7 @@ I build mobile and web products across nutrition, personal finance, and workflow
 
 | Project | What it does | Technology |
 | --- | --- | --- |
-| **Provision** | Nutrition app for meal logging and nutrition insights. In active development; source is private. | Swift, SwiftUI |
+| **[Provision](https://github.com/yanglluo/provision-case-study)** | Nutrition app for meal logging and nutrition insights. In active development; source is private. | Swift, SwiftUI |
 | **[RevLeak](https://github.com/yanglluo/RevLeak)** | SaaS revenue-risk project that detects failed payments, overdue subscriptions, and expiring cards from Stripe data. | Next.js, TypeScript, Stripe, Supabase |
 | **[Mend](https://github.com/yanglluo/MendFinanceApp)** | Student budgeting app with local expense tracking, rules-based spending insights, and adjustable feedback styles. | React Native, Expo, TypeScript, SQLite |
 
