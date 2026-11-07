@@ -10,10 +10,12 @@ I build mobile and web products across nutrition, personal finance, and workflow
 
 | Project | What it does | Technology |
 | --- | --- | --- |
-| **[Provision](https://github.com/yanglluo/provision-case-study)** | Nutrition app for meal logging and nutrition insights. In active development; source is private. | Swift, SwiftUI |
+| **[Provision](https://github.com/yanglluo/provision-case-study)** | Native iOS nutrition app: review food sources and portions, explicitly confirm meals, and explore recorded-period insights. In development; public case study, private source. | Swift, SwiftUI |
 | **[Signal Desk](https://github.com/yanglluo/signal-desk-case-study)** | AI-assisted media-monitoring workflow: evidence-backed suggestions, human review, and report preparation. Public case study; company source and client data remain private. | React, TypeScript, Supabase, OpenAI |
-| **[RevLeak](https://github.com/yanglluo/RevLeak)** | SaaS revenue-risk project that detects failed payments, overdue subscriptions, and expiring cards from Stripe data. | Next.js, TypeScript, Stripe, Supabase |
-| **[Mend](https://github.com/yanglluo/MendFinanceApp)** | Student budgeting app with local expense tracking, rules-based spending insights, and adjustable feedback styles. | React Native, Expo, TypeScript, SQLite |
+| **[RevLeak](https://github.com/yanglluo/RevLeak)** | Full-stack prototype for investigating failed payments, overdue subscriptions, and expiring cards in Stripe test data. Recovery and webhook workflows remain incomplete. | Next.js, TypeScript, Stripe, Supabase |
+| **[Mend](https://github.com/yanglluo/MendFinanceApp)** | Student budgeting prototype with local expense tracking, rules-based insights, and adjustable feedback. Mock authentication; no bank integration. | React Native, Expo, TypeScript, SQLite |
+
+**[YangOS — current portfolio](https://povhiringyang.vercel.app/):** an interactive desktop built with HTML, CSS, and JavaScript. The pinned [PovHiringYang repository](https://github.com/yanglluo/PovHiringYang) contains an earlier React/Vite iteration.
 
 ## Tools I work with
 
